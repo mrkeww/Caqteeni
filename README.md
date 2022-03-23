@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Caqteeni
+- 👀 I’m interested in coding with C# and javascript/typescript
+- 🌱 I’m currently learning to make games with unity
