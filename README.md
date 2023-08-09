@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @Caqteeni
+- I use python, c++, c# and I know some networking/pentesting stuff
+- I just do these things as a hobby
