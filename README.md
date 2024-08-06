@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrkeww
-- I use python, c++, c#, java and I know some networking/pentesting stuff
+- I make games or code very occasionally. Mostly im just a very good gamer
 
 [![mrkeww's GitHub stats](https://github-readme-stats-eight-phi-20.vercel.app/api?username=mrkeww&theme=midnight-purple&show_icons=true)](https://github.com/mrkeww/github-readme-stats)
 
