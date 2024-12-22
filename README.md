@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrkeww
-- I make games or code very occasionally. Mostly im just a very good gamer
+- I code very occasionally. Mostly im just a very good gamer
 
 [![mrkeww's GitHub stats](https://github-readme-stats-ftpr.vercel.app/api?username=mrkeww&theme=midnight-purple&show_icons=true)](https://github.com/mrkeww/github-readme-stats)
 
